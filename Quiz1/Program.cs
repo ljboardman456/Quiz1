@@ -10,6 +10,10 @@ namespace Quiz1
     {
         static void Main(string[] args)
         {
+            //print text
+            Console.WriteLine("This is Quiz 1.");
+
+            Console.ReadLine();
         }
     }
 }
